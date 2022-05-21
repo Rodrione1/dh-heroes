@@ -1,1 +1,1 @@
-# dh-heroes
+# DH-heroes
